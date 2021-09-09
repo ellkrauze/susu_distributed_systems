@@ -1,0 +1,16 @@
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.exe
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.deps.json
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.runtimeconfig.json
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.runtimeconfig.dev.json
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.dll
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\ref\TCPSocket.dll
+D:\projects\susu_distributed_systems\TCPSocket\bin\Debug\net5.0\TCPSocket.pdb
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.csproj.AssemblyReference.cache
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.AssemblyInfoInputs.cache
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.AssemblyInfo.cs
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.csproj.CoreCompileInputs.cache
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.dll
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\ref\TCPSocket.dll
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.pdb
+D:\projects\susu_distributed_systems\TCPSocket\obj\Debug\net5.0\TCPSocket.genruntimeconfig.cache
