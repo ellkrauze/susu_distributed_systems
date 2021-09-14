@@ -9,7 +9,7 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import org.apache.commons.io;
+// import org.apache.commons.io;
 
 
 public class Server {
@@ -33,12 +33,25 @@ public class Server {
                 byte[] buf = new byte[32*1024];
                 int readBytes = in.read(buf);
                 String line = new String(buf, 0, readBytes);
-
-                if (line == "LIST") {
-                    try(FileInputStream inputStream = new FileInputStream(database)) {     
-                        String everything = IOUtils.toString(inputStream);
+                
+                if (line.equals("LIST")) {
+                    System.out.println("test");
+                    try(BufferedReader br = new BufferedReader(new FileReader(database))) {
+                        StringBuilder sb = new StringBuilder();
+                        String input_line = br.readLine();
+                    
+                        while (input_line != null) {
+                            sb.append(input_line);
+                            sb.append(System.lineSeparator());
+                            input_line = br.readLine();
+                        }
+                        String everything = sb.toString();
                         out.write(everything.getBytes());
                     }
+                    /*try(FileInputStream inputStream = new FileInputStream(database)) {     
+                        String everything = IOUtils.toString(inputStream);
+                        out.write(everything.getBytes());
+                    }*/
                     
                 }
                 else {

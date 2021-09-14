@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\susu_distributed_systems\\UDPClient\\UDPClient.csproj",
+      "projectUniqueName": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPClient\\UDPClient.csproj",
       "projectName": "UDPClient",
-      "projectPath": "D:\\projects\\susu_distributed_systems\\UDPClient\\UDPClient.csproj",
+      "projectPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPClient\\UDPClient.csproj",
       "packagesPath": "C:\\Users\\lerus\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\susu_distributed_systems\\UDPClient\\obj\\",
+      "outputPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lerus\\AppData\\Roaming\\NuGet\\NuGet.Config"

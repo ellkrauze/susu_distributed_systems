@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjovqeR84ale9TTRcfLFufFhkT6+n+kfAhHV6rIOO8q6OFcUGOxHxYJZQks1uimAjKgWmLhPuiPi7Ht891HKpQ==",
+  "dgSpecHash": "AsqiFNW+j+t2y1IYAeFyo53guQOZmSZNj7Ju8NwilWlSQkCChw1ztBIRrgV21SYjvcBh52YhNfNUua01B5ITtA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\susu_distributed_systems\\UDPServer\\UDPServer.csproj",
+  "projectFilePath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\UDPServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

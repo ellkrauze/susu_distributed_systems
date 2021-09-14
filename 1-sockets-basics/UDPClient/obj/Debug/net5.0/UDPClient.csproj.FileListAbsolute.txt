@@ -1,0 +1,16 @@
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.exe
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.deps.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.runtimeconfig.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.runtimeconfig.dev.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\ref\UDPClient.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\bin\Debug\net5.0\UDPClient.pdb
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.csproj.AssemblyReference.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.AssemblyInfoInputs.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.AssemblyInfo.cs
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.csproj.CoreCompileInputs.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\ref\UDPClient.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.pdb
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPClient\obj\Debug\net5.0\UDPClient.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\susu_distributed_systems\\TCPClient\\TCPClient.csproj": {}
+    "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPClient\\TCPClient.csproj": {}
   },
   "projects": {
-    "D:\\projects\\susu_distributed_systems\\TCPClient\\TCPClient.csproj": {
+    "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPClient\\TCPClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\susu_distributed_systems\\TCPClient\\TCPClient.csproj",
+        "projectUniqueName": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPClient\\TCPClient.csproj",
         "projectName": "TCPClient",
-        "projectPath": "D:\\projects\\susu_distributed_systems\\TCPClient\\TCPClient.csproj",
+        "projectPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPClient\\TCPClient.csproj",
         "packagesPath": "C:\\Users\\lerus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\susu_distributed_systems\\TCPClient\\obj\\",
+        "outputPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lerus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,16 @@
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.exe
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.deps.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.runtimeconfig.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.runtimeconfig.dev.json
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\ref\UDPServer.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\bin\Debug\net5.0\UDPServer.pdb
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.csproj.AssemblyReference.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.AssemblyInfoInputs.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.AssemblyInfo.cs
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.csproj.CoreCompileInputs.cache
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\ref\UDPServer.dll
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.pdb
+D:\projects\susu_distributed_systems\1-sockets-basics\UDPServer\obj\Debug\net5.0\UDPServer.genruntimeconfig.cache

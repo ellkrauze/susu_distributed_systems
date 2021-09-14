@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lerus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lerus\\.nuget\\packages"
+    ]
+  }
+}

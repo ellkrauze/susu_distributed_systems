@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\susu_distributed_systems\\UDPServer\\UDPServer.csproj": {}
+    "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\UDPServer.csproj": {}
   },
   "projects": {
-    "D:\\projects\\susu_distributed_systems\\UDPServer\\UDPServer.csproj": {
+    "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\UDPServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\susu_distributed_systems\\UDPServer\\UDPServer.csproj",
+        "projectUniqueName": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\UDPServer.csproj",
         "projectName": "UDPServer",
-        "projectPath": "D:\\projects\\susu_distributed_systems\\UDPServer\\UDPServer.csproj",
+        "projectPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\UDPServer.csproj",
         "packagesPath": "C:\\Users\\lerus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\susu_distributed_systems\\UDPServer\\obj\\",
+        "outputPath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\UDPServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lerus\\AppData\\Roaming\\NuGet\\NuGet.Config"

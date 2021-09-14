@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/RJPkjU7Gkh+gu4f057qLxaLH4wKKL+B5MCjRhJ1gOJZ5vN8bqGrQ+20yX2xTlQ0haUEpOihjtU5iKvd0mpZYA==",
+  "dgSpecHash": "eoPW9V1PzCx7keDgvvx6dzNXae1SjAm10oKzxWdzw+CIiJ/lfYV1BRFcjzv0QwX4rZB6lfk1IFySLiaOlI/Tdw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\susu_distributed_systems\\TCPSocket\\TCPSocket.csproj",
+  "projectFilePath": "D:\\projects\\susu_distributed_systems\\1-sockets-basics\\TCPSocket\\TCPSocket.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
