@@ -2,8 +2,12 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
 public class Client {
-    private Client() {
 
+    private String name;
+    private String address;
+
+    private Client(String name) {
+        this.name = name;
     }
     public static void main(String[] args) {
 
@@ -17,6 +21,7 @@ public class Client {
             // Вызов метода удаленного объекта
             String response = String.valueOf(stub.add(10, 20));
             System.out.println("response: " + response);
+            Thread.sleep(5*1000);
         } catch (Exception e) {
             System.err.println("Client exception: " + e.toString());
             e.printStackTrace();
